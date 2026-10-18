@@ -1,0 +1,16 @@
+LiToSFEM Demo Installer — Academic Evaluation License
+
+Copyright (c) 2026 Huijian Chen et al.
+
+The LiToSFEM demo installer and accompanying example input files
+provided in this repository are released solely for non-commercial
+academic evaluation and reproducibility of the numerical results
+reported in the manuscript MEG26-AR-00017R1 (MechanoEngineering).
+
+Redistribution of the installer binary is permitted for academic
+purposes only. Reverse engineering, decompilation, or integration
+into commercial products is prohibited. No warranty of any kind is
+provided; the software is supplied "as is".
+
+For licensing inquiries regarding a full-feature version, please
+contact the corresponding author (huijianc@foxmail.com).
