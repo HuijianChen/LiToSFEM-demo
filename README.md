@@ -19,7 +19,7 @@ LiToSFEM is an object-oriented, GUI-driven software for modelling elastic wave p
 
 ## Quick start
 
-1. Download `LiToSFEM_demo_setup.exe` from the [Releases](https://github.com/xxx/LiToSFEM-demo/releases/tag/v1.0.0) page and install.
+1. Download `LiToSFEM_demo_setup.exe` from the [Releases](https://github.com/HuijianChen/LiToSFEM-demo/releases/tag/v1.0.0) page and install.
 2. Launch `LiToSFEM.exe`.
 3. For each example, import the corresponding input file via **File → Open Project**.
 4. Click **Solve** to run the TDSFEM simulation; post-processing results are written to the output file and visualized inside the GUI.
