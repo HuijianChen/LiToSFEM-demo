@@ -1,0 +1,19 @@
+Simulation of Guided Waves
+Type of SFEs
+24
+parameters
+22801 900 5 5 5 1 4 1e-08 8e-05
+Frequency
+1
+meshpath
+C:/Users/40162/Desktop/example_1/mesh/block.sim
+boundary
+-9999
+materials
+1    7e+10    0.3    0    2700    
+force
+1  1
+C:/Users/40162/Desktop/example_1/curve/SFECurve.rpt
+excitation_points
+1
+11101  
