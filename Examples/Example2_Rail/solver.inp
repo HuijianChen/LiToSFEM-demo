@@ -1,0 +1,19 @@
+Simulation of Guided Waves
+Type of SFEs
+38
+parameters
+18387 1880 2 2 2 1 4 5e-08 0.0004
+Frequency
+10
+meshpath
+F:/example2/mesh/rail3D.sim
+boundary
+-9999
+materials
+1    2.06e+11    0.3    1    7850    
+force
+1  1
+F:/example2/curve/SFECurve.rpt
+excitation_points
+25
+233  232  201  199  197  214  215  183  182  181  216  217  180  179  178  218  219  147  146  145  665  664  144  143  142  
