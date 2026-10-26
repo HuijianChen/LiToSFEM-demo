@@ -37,8 +37,6 @@ If you use this demo for academic work, please cite the accompanying paper:
 
 > Chen H. et al. LiToSFEM: A time-domain spectral finite element method software with interactive GUI for modelling elastic wave propagation. *MechanoEngineering* (2026).
 
-A versioned snapshot of this repository is archived on Zenodo: [10.5281/zenodo.xxxxx](https://doi.org/10.5281/zenodo.xxxxx).
-
 ## Contact
 
 Correspondence: Huijian Chen (huijianc@foxmail.com)
