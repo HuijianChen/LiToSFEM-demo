@@ -7,7 +7,7 @@ LiToSFEM is an object-oriented, GUI-driven software for modelling elastic wave p
 | Path | Description |
 |---|---|
 | `installer/LiToSFEM_demo_setup.exe` | Windows x64 demo installer (uploaded as GitHub Release asset) |
-| `Examples/Example1_Plate/` | 2D isotropic plate (corresponds to Figs. 8–10) |
+| `Examples/Example1_Plate/` | 2D isotropic plate (Figs. 8–10) |
 | `Examples/Example2_Rail/` | 3D steel rail SH₀-like guided wave (Figs. 11–12) |
 | `Examples/Example3_Crack/` | 3D pipe with transverse crack (Figs. 13–16) |
 
@@ -39,4 +39,4 @@ If you use this demo for academic work, please cite the accompanying paper:
 
 ## Contact
 
-Correspondence: Huijian Chen (huijianc@foxmail.com)
+Correspondence: Zhiqiang Feng (zhiqiang.feng@univ-evry.fr)
